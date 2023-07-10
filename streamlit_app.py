@@ -8,7 +8,7 @@ st.set_page_config(page_title="HugChat - An LLM-powered Streamlit app")
 
 # Sidebar contents
 with st.sidebar:
-    st.title('🤗💬 Vaishnavi's Chatbot')
+    st.title('🤗💬 Vaishnavi Chatbot')
     st.markdown('''
     ## About
     This app is an LLM-powered chatbot built using:
