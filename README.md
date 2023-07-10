@@ -1,11 +1,11 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Super Chatbot using Streamlit
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
 Description of the app ...
 
-## Demo App
+## Demo App to show how to build a chatbot using streamlit
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
